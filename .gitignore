@@ -1,0 +1,31 @@
+#Environment variables
+
+.venv
+
+#Python cache
+
+pycache/
+*.pyc
+*.pyo
+*.pyd
+
+#Streamlit cache
+
+.streamlit/
+
+#Generated website files
+
+index.html
+style.css
+script.js
+website_files.zip
+
+#IDE / editor configs
+
+.vscode/
+.idea/
+
+#OS files
+
+.DS_Store
+Thumbs.db
